@@ -13,4 +13,4 @@ a luminosity function.
 
 Demonstration
 ====
-A demonstration video can be found [here](https://www.youtube.com/watch?v=4UowvU98tO0)
+A demonstration video can be found [here](https://www.youtube.com/watch?v=4UowvU98tO0).
